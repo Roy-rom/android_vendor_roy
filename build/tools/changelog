@@ -2,7 +2,7 @@
 
 # Exports
 
-. vendor/arrow/build/tools/colors
+. vendor/roy/build/tools/colors
 
 export Changelog=Changelog.txt
 
